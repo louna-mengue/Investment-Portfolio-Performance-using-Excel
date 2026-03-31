@@ -6,6 +6,7 @@ The objective is to design a portfolio that balances return and risk while outpe
 
 ## PROJECT
 - <a  href= " https://github.com/louna-mengue/Investment-Portfolio-Performance-using-Excel/blob/main/PORTFOLIO%20PERFORMANCE%201%20(version%201).xlsb" > excel project </a>
+https://1drv.ms/x/c/f20ea053dcd68fb5/IQCO3PJPKnwhRLEwpZ-wghqaAbRVdRH_hifnR_i0ym-MjW8?e=IbBljU
 
 ## Data Collection & Processing
 Stock prices manually extracted from Investing.com 
