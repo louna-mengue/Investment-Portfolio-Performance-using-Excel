@@ -4,6 +4,9 @@ This project presents an attempt in the construction and analysis of a global mu
 
 The objective is to design a portfolio that balances return and risk while outperforming its benchmark (MSCI World), through disciplined asset allocation and risk management for a risk adverse investor.
 
+## PROJECT
+- <a  href= " https://github.com/louna-mengue/Investment-Portfolio-Performance-using-Excel/blob/main/PORTFOLIO%20PERFORMANCE%201%20(version%201).xlsb" > excel project </a>
+
 ## Data Collection & Processing
 Stock prices manually extracted from Investing.com 
 Monthly frequency applied to reduce noise
@@ -48,6 +51,12 @@ Interest rate shock (+100bps)
 6. Monitoring
 
 Portfolio tracking via dashboard (performance, allocation, risk metrics)
+
+## DASHBOARD INTERACTION
+- <a href= "https://github.com/louna-mengue/Investment-Portfolio-Performance-using-Excel/blob/main/Capture%20d%E2%80%99%C3%A9cran%20Portfolio%20Dashboard.png" > Portfolio Dashboard</a>
+
+<img width="960" height="427" alt="Capture d’écran Portfolio Dashboard" src="https://github.com/user-attachments/assets/f4ec3335-84d5-4ea5-9577-ce6c701397f7" />
+
 
 ## INVESTMENT QUESTIONS (KPI's)
 What is the return?
